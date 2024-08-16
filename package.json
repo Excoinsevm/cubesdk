@@ -1,8 +1,8 @@
 {
-  "name": "@bscswap/sdk",
+  "name": "@popswap/cubesdk",
   "license": "MIT",
-  "version": "3.0.15",
-  "description": "🛠 An SDK for building applications on top of BSCswap.",
+  "version": "0.0.1",
+  "description": "🛠 An SDK for building applications on top of cubeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
